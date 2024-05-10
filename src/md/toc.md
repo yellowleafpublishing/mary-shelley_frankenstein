@@ -3,7 +3,7 @@ lang: en-US
 title: Table of Contents
 ---
 
-## Table of Contents {#table-of-contents epub:type="title"}
+## Table of Contents
 
 1.  [Titlepage](text/titlepage.md)
 2.  [Imprint](text/imprint.md)
