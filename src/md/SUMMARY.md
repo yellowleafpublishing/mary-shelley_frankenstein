@@ -5,7 +5,6 @@ title: Table of Contents
 # Table of Contents
 
 ## Front Matter 
-* [Title Page](text/titlepage.md)
 * [Imprint](text/imprint.md)
 * [Introduction](text/introduction.md)
 * [Preface](text/preface.md)
@@ -13,7 +12,6 @@ title: Table of Contents
 * [Epigraph](text/epigraph.md)
 
 ## Frankenstein
-* [Frankenstein](text/halftitlepage.md)
 * [Letter [I]](text/letter-1.md)
 * [Letter [II]](text/letter-2.md)
 * [Letter [III]](text/letter-3.md)
