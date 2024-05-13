@@ -4,7 +4,5 @@ root: ./
   readme: README.md
   summary: SUMMARY.md​
 
-/*
-redirects:
-  previous/page: new-folder/page.md
-*/
+# redirects:
+#  previous/page: new-folder/page.md
