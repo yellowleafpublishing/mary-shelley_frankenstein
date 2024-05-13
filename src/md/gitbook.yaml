@@ -1,4 +1,4 @@
-root: ./
+root: ./src/md
 
 ​structure:
   readme: README.md
