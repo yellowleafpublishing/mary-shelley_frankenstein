@@ -45,11 +45,6 @@ title: Table of Contents
     * [Walton, *in Continuation*](text/chapter-24.md#walton-in-continuation)
             
 ## End Matter
-8.  [Endnotes](text/endnotes.md)
-9.  [Colophon](text/colophon.md)
-10. [Uncopyright](text/uncopyright.md)
-
-## Landmarks {#landmarks epub:type="title"}
-
-1.  [Frankenstein](text/letter-1.md)
-2.  [Endnotes](text/endnotes.md)
+* [Endnotes](text/endnotes.md)
+* [Colophon](text/colophon.md)
+* [Uncopyright](text/uncopyright.md)
